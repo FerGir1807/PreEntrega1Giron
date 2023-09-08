@@ -2,7 +2,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import 'bootstrap-icons/font/bootstrap-icons.css'
 import ItemListContainer from "./components/item/itemListContainer"
 import CartContainer from "./components/cart/CartContainer"
-import NavBar from "./components/NavBar"
+import NavBar from "./components/navBar/NavBar"
 
 function App() {
 
